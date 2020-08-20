@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<!--
+ - File              : footer.html
+ - Author            : Wayne Yeo [fishnsotong] <wwzyeo@gmail.com>
+ - Date              : 2020-08-20T23:56:06+0800
+ - Last Modified Date: 2020-08-21T00:28:30+0800
+ - Last Modified By  : Wayne Yeo [fishnsotong] <wwzyeo@gmail.com>
+-->
+
 <footer class="center">
   <div class="measure">
     <small>
@@ -8,8 +17,11 @@
 {% if site.enable_anchorjs %}<!-- AnchorJS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
 <script>
-    anchors.options.visible = 'always';
-    anchors.add('article h2, article h3, article h4, article h5, article h6');
+    anchors.options.visible = 'touch';
+    anchors.options.placement = 'left';
+    anchors.options.icon = '§';
+    anchors.add('h2:not(.mainTitle), h3, h4, h5, h6');
+    // anchors.add('article h2, article h3, article h4, article h5, article h6');
 </script>{% endif %}
 <script type="text/javascript">
     if ("serviceWorker" in navigator) {

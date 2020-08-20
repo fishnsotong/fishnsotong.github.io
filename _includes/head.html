@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<!--
+ - File              : head.html
+ - Author            : Wayne Yeo [fishnsotong] <wwzyeo@gmail.com>
+ - Date              : 2020-08-20T22:02:29+0800
+ - Last Modified Date: 2020-08-21T00:22:02+0800
+ - Last Modified By  : Wayne Yeo [fishnsotong] <wwzyeo@gmail.com>
+-->
 <head>
     {% if site.google_tag_manager %}
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -8,12 +16,12 @@
     {% endif %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
+    <title>{% unless page.title == 'main' %} {{ page.title | strip_html }} &#8211; {% endunless %}{{ site.title | strip_html }}</title>
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.2">
     <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     {% if page.meta_robots %}<meta name="robots" content="{{ page.meta_robots }}">
     {% else %}<meta name="robots" content="all">{% endif %}
