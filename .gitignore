@@ -6,4 +6,7 @@ _site
 # Ignore the config file that's used for gh-pages.
 _config.gh-pages.yml
 
+# Ignore the cache that Jekyll uses for local webserver use.
+.jekyll-cache
+
 Gemfile.lock
