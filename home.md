@@ -14,9 +14,14 @@ I completed my pre-university education at Victoria Junior College, where I was 
 ## research
 I completed an internship with the Nanyang Technological University’s [artificial photosynthesis lab][group] under the supervision of [Han Sen Soo][hansen].
 
-My projects involved the synthesis, isolation and purification of ligand systems using a range of conventional wet chemistry and air-sensitive techniques, and using them in metalation reactions to produce organometallic complexes.
 
 ## writing
+- [(2017, April 10)][writing-3] Eugene Tay – Freelance Writing Work in Singapore & Beyond. *All In! Young Writers Festival 2017.*
+- [(2017, April 10)][writing-2] Hello, I'm Pip! *All In! Young Writers Festival 2017.*
+- [(2017, March 14)][writing-1] SUTD EV Design Challenge 2017. *The Victorian Press.*
 
 [group]: http://www.ntu.edu.sg/home/hansen/webpage/public/Main.htm
 [hansen]: https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=HANSEN
+[writing-1]:http://thevictorianpress.com/sutd-ev-design-challenge-2017/
+[writing-2]:https://all-in.bookcouncil.sg/2017/page/399.html
+[writing-3]:https://all-in.bookcouncil.sg/2017/page/396.html
