@@ -53,8 +53,5 @@ button,
 }
 
 .anchorjs-link {
-  transition: all .25s linear;
-}
-*:hover > .anchorjs-link {
-  margin-left: -1.125em !important;
+  transition: color .15s linear;
 }
