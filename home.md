@@ -12,6 +12,7 @@ energy conversion such as artificial photosynthesis.
 I completed my pre-university education at Victoria Junior College, where I was
 the vice-chairperson of the robotics-makers club.
 
+
 ## research
 Most recently, I did an internship with the Nanyang Technological University’s
 [artificial photosynthesis lab][group] under the supervision of [Han Sen
@@ -25,14 +26,28 @@ Soo][hansen].
   Optimization in the World of Big Data. *Singapore Mathematical Society Essay
   Competition (Category C)*, 2017. **Second Prize.**
 
-## writing
+## writing and photography
+I'm a [film photographer][photos] interested in portraiture and architectural shoots. I like the look of film and taking pictures of my friends.
 
+I used to be interested in journalistic writing back when I was in school.
+Here's a small collection of my work. 
+
+#### full articles
 - [(2017, April 10)][writing-3] Eugene Tay – Freelance Writing Work in Singapore & Beyond. *All In! Young Writers Festival 2017.*
 - [(2017, April 10)][writing-2] Hello, I'm Pip! *All In! Young Writers Festival 2017.*
-- [(2017, March 14)][writing-1] SUTD EV Design Challenge 2017. *The Victorian Press.*
+- [(2017, March 14)][writing-1] SUTD EV Design Challenge 2017. *The Victorian Press.* \
+  **Best Feature Article.**
+
+#### photography and other contributions
+- [(2017, February 28)][writing-4] Keeping Her Flag Unfurled. *The Victorian Press.*
+
+## contact
+- gmail using wwzyeo
 
 [group]: http://www.ntu.edu.sg/home/hansen/webpage/public/Main.htm
 [hansen]: https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=HANSEN
-[writing-1]:http://thevictorianpress.com/sutd-ev-design-challenge-2017/
-[writing-2]:https://all-in.bookcouncil.sg/2017/page/399.html
-[writing-3]:https://all-in.bookcouncil.sg/2017/page/396.html
+[photos]: https://vsco.co/fishnsotong/gallery
+[writing-1]: http://thevictorianpress.com/sutd-ev-design-challenge-2017/
+[writing-2]: https://all-in.bookcouncil.sg/2017/page/399.html
+[writing-3]: https://all-in.bookcouncil.sg/2017/page/396.html
+[writing-4]: http://thevictorianpress.com/keeping-flag-unfurled/
