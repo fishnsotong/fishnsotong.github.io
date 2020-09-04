@@ -12,6 +12,8 @@ energy conversion such as artificial photosynthesis.
 I completed my pre-university education at Victoria Junior College, where I was
 the vice-chairperson of the robotics-makers club.
 
+[[CV]][cv] (last updated September 2020)
+
 
 ## research
 Most recently, I did an internship with the Nanyang Technological University’s
@@ -44,6 +46,7 @@ Here's a small collection of my work.
 ## contact
 - gmail using wwzyeo
 
+[cv]: https://me.superheated.systems/cv/
 [group]: http://www.ntu.edu.sg/home/hansen/webpage/public/Main.htm
 [hansen]: https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=HANSEN
 [photos]: https://vsco.co/fishnsotong/gallery
