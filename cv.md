@@ -75,7 +75,7 @@ Institute for Materials Research and Engineering
 ## Scholarships and Prizes
 
 * A\*STAR Science Award (Junior College), Agency for Science, Technology and Research (2017)
-* Subject Prize for English – 1<sup>st</sup> in cohort, Victoria School (2016)
+* Subject Prize for English – 1<sup>st</sup> in graduating cohort, Victoria School (2016)
 * Social Innovator Award, Victoria School (2016)
 * Regional Studies Programme Scholarship, Ministry of Education, Singapore (2013)
 * Akela Award, Singapore Scout Association (2012)

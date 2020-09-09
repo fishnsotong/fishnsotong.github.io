@@ -28,8 +28,21 @@ Soo][hansen].
   Optimization in the World of Big Data. *Singapore Mathematical Society Essay
   Competition (Category C)*, 2017. **Second Prize.**
 
+## projects
+
+**screenflow (2020 – present)** \
+Data matrix reading utility for high-throughput cryotube testing and sorting. \
+Worked on the computer vision and web development stack.
+
+[github.com/fishnsotong/screenflow](https://github.com/fishnsotong/screenflow)
+
+**protein-purification (2020 – present)** \
+A robot to automate IMAC protocols for purifying recombinant proteins.
+
+[github.com/fishnsotong/protein-purification](https://github.com/fishnsotong/protein-purification)
+
 ## writing and photography
-I'm a [film photographer][photos] interested in portraiture and architectural shoots. I like the look of film and taking pictures of my friends.
+I'm a [film photographer][photos] into portraiture and street photography. I like the look of film and taking pictures of my friends.
 
 I used to be interested in journalistic writing back when I was in school.
 Here's a small collection of my work. 
@@ -40,13 +53,13 @@ Here's a small collection of my work.
 - [(2017, March 14)][writing-1] SUTD EV Design Challenge 2017. *The Victorian Press.* \
   **Best Feature Article.**
 
-#### photography and other contributions
+#### photography and additional reporting
 - [(2017, February 28)][writing-4] Keeping Her Flag Unfurled. *The Victorian Press.*
 
 ## contact
 - gmail using wwzyeo
 
-[cv]: https://me.superheated.systems/cv/
+[cv]: /cv/
 [group]: http://www.ntu.edu.sg/home/hansen/webpage/public/Main.htm
 [hansen]: https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=HANSEN
 [photos]: https://vsco.co/fishnsotong/gallery
