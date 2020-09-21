@@ -1,10 +1,8 @@
-# @Author: Wayne Yeo <fishnsotong>
-# @Date:   2019-04-01T09:11:45+08:00
-# @Email:  wwzyeo@gmail.com
-# @Last modified by:   fishnsotong
-# @Last modified time: 2019-04-02T02:30:18+08:00
-
-
+# File              : _config.yml
+# Author            : Wayne Yeo [fishnsotong@superheated] <wwzyeo@gmail.com>
+# Date              : 2020-09-21T14:39:12+0800
+# Last Modified Date: 2020-09-21T15:11:04+0800
+# Last Modified By  : Wayne Yeo [fishnsotong@superheated] <wwzyeo@gmail.com>
 
 # Site settings
 title:       Wayne Yeo
@@ -15,6 +13,7 @@ baseurl:     ""
 url:         "http://fishnsotong.github.io"
 date_format: "%-d %b, %Y"
 header_pages:
+ - tools.md
  - blog/index.html
 
 # Google services
