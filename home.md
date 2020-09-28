@@ -30,9 +30,11 @@ Soo][hansen].
 
 ## projects
 
+### major projects
+
 **screenflow (2020 – present)** \
 Data matrix reading utility for high-throughput cryotube testing and sorting. \
-Worked on the computer vision and web development stack.
+Worked on the [computer vision][nb-1] and web development stack.
 
 [github.com/fishnsotong/screenflow](https://github.com/fishnsotong/screenflow)
 
@@ -41,8 +43,15 @@ A robot to automate IMAC protocols for purifying recombinant proteins.
 
 [github.com/fishnsotong/protein-purification](https://github.com/fishnsotong/protein-purification)
 
+### service projects
+
+**Project Glitch (2020 – present)** \
+Workshops, camps and hackathons to make robotics and making more
+accessible to students from all backgrounds in MacPherson and Singapore.
+
+
 ## writing and photography
-I'm a [film photographer][photos] into portraiture and street photography. I like the look of film and taking pictures of my friends.
+I'm a [film photographer][photos] exploring portraiture and street photography. I like the look of film and taking pictures of my friends.
 
 I used to be interested in journalistic writing back when I was in school.
 Here's a small collection of my work. 
@@ -67,3 +76,4 @@ Here's a small collection of my work.
 [writing-2]: https://all-in.bookcouncil.sg/2017/page/399.html
 [writing-3]: https://all-in.bookcouncil.sg/2017/page/396.html
 [writing-4]: http://thevictorianpress.com/keeping-flag-unfurled/
+[nb-1]: https://public.superheated.systems/screenflow.html

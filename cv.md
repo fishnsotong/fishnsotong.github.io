@@ -3,7 +3,7 @@ layout:    default
 title:     "Wayne Yeo Wei Zhong"
 keywords:  "resume, cv"
 permalink: /cv/
-search:    false
+search:    exclude
 ---
 
 # Wayne Yeo Wei Zhong
@@ -45,7 +45,6 @@ Institute for Materials Research and Engineering
   - 3D Printing of soft polymers
   - Advisor: Sen Wai Kwok
 
-
 ## Conference
 
 1. W. W. Z. Yeo, S. H. Lim, C. K. Liu and G. Yong. Building Nanostructured
@@ -59,18 +58,26 @@ Institute for Materials Research and Engineering
 ## Awards
 
 ### Local
-
 - 2017: Singapore Chemistry Olympiad, Bronze Award
 - 2017: SUTD Electric Vehicle Design Challenge, Champions
 - 2017: Singapore Mathematical Society Essay Competition, 2<sup>nd</sup> Prize
 - 2016 Singapore Junior Chemistry Olympiad, Bronze Award
 - 2016: Australian National Chemistry Quiz: High Distinction (Year 11)
 - 2016: iNTUition v3.0, Best FinTech Hack
-- 2015: YDSP Science and Technology Camp \| Underwater Robotics, Champions
+- 2015: YDSP Science and Technology Camp \| Underwater Robotics, Champions \
+  press: [[news release]][press-1] [[fact sheet]][press-2]
+- 2015: National Science Challenge: Quarter-finalist
 
 ### Institutional
 - 2017: Victorian Press Awards, Best Feature Article
-- 2016: East Zone A\*STAR Science Fair, Bronze Award
+- 2016: East Zone A\*STAR Science Fair, Bronze Award \
+  Presented at Maker Faire 2017
+
+
+### Notable Participations
+- 2017: NUS Hack & Roll, IDEA Hacks @ UWCSEA
+- 2016: Amazing Science-X Challenge, Special Mention
+- 2016: Singapore Junior Physics Olympiad, Honorable Mention
 
 ## Scholarships and Prizes
 
@@ -79,6 +86,12 @@ Institute for Materials Research and Engineering
 * Social Innovator Award, Victoria School (2016)
 * Regional Studies Programme Scholarship, Ministry of Education, Singapore (2013)
 * Akela Award, Singapore Scout Association (2012)
+
+## Service
+
+* Project Glitch – teaching, planning events and workshops. (2020)
+* SYPT Cat B, Victoria School (mentor) – first time teams from Victoria School won Bronze, and Special Mention
+  awards. (2017)
 
 ## Extracurricular Activities
 
@@ -92,3 +105,5 @@ Synthetic organic chemistry. Air-sensitive techniques. NMR spectroscopy.
 Film photography. Cold-brew and filter coffee. Cycling.
 
 [website]: https://fishnsotong.github.io
+[press-1]: https://www.dsta.gov.sg/docs/default-source/news-releases-documents/160330_ydsp-congress-nr-709922700a1d6b0c895eff0000f6c7a3.pdf?sfvrsn=2
+[press-2]: https://dsta.gov.sg/docs/default-source/news-releases-documents/160330_ydsp_fs6b9922700a1d6b0c895eff0000f6c7a3.pdf?sfvrsn=2
