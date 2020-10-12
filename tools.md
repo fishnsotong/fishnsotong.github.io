@@ -38,7 +38,7 @@ A collection of tools that I use.
   Instapaper, but stopped using it since they made full-text search a premium feature.
   I'm planning to self-host [Wallabag](https://www.wallabag.org/en) on my server
   as soon as I have the time. 
-- [Dropbox](https://dropbox.com) indispensible for backups, cloud storage and sharing.
+- [Dropbox](https://dropbox.com) is indispensible for backups, cloud storage and sharing.
 
  
 ### Phone apps
@@ -59,8 +59,8 @@ A collection of tools that I use.
 First, download the SingPass app. It's fast, convenient, and promises not to spy
 on you (hopefully!).
 
-Then [configure your iPhone][safe-entry] to make SafeEntry a more pleasant experience on iOS. It
-should save some taps and time futzing around with a camera in front of QR codes
+Then [configure your iPhone][safe-entry] to make SafeEntry a more pleasant experience on iOS.
+It should save some taps and time futzing around with a camera in front of QR codes
 at entrances and exits. Kudos to mrbrown for posting about this.
 
 1. Go to the SingPass app to activate Siri Shortcuts for SafeEntry.

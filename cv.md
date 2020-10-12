@@ -61,12 +61,12 @@ Institute for Materials Research and Engineering
 - 2017: Singapore Chemistry Olympiad, Bronze Award
 - 2017: SUTD Electric Vehicle Design Challenge, Champions
 - 2017: Singapore Mathematical Society Essay Competition, 2<sup>nd</sup> Prize
-- 2016 Singapore Junior Chemistry Olympiad, Bronze Award
-- 2016: Australian National Chemistry Quiz: High Distinction (Year 11)
+- 2016: Singapore Junior Chemistry Olympiad, Bronze Award
+- 2016: Australian National Chemistry Quiz, High Distinction (Year 11)
 - 2016: iNTUition v3.0, Best FinTech Hack
 - 2015: YDSP Science and Technology Camp \| Underwater Robotics, Champions \
-  press: [[news release]][press-1] [[fact sheet]][press-2]
-- 2015: National Science Challenge: Quarter-finalist
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;press: [[news release]][press-1] [[fact sheet]][press-2]
+- 2015: National Science Challenge, Quarter-finalist
 
 ### Institutional
 - 2017: Victorian Press Awards, Best Feature Article
@@ -90,8 +90,7 @@ Institute for Materials Research and Engineering
 ## Service
 
 * Project Glitch – teaching, planning events and workshops. (2020)
-* SYPT Cat B, Victoria School (mentor) – first time teams from Victoria School won Bronze, and Special Mention
-  awards. (2017)
+* SYPT Category B, Victoria School (mentor) – first time teams from Victoria School won Bronze, and Special Mention awards. (2017)
 
 ## Extracurricular Activities
 
