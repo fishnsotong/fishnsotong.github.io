@@ -16,7 +16,7 @@ title: Blog
 	      {{ post.date | date: "%-d %b, %Y" }}
 	    {% endif %}
 	  </p>
-          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <a href="{{ post.url | relative_url }}" class="post-link"><h1 class="h1 post-title">{{ post.title }}</h1></a>
           <p class="post-summary">
             {% if post.summary %}
               {{ post.summary }}
