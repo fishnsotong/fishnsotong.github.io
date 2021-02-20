@@ -1,3 +1,8 @@
+ File              : home.md
+ Author            : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
+ Date              : 2021-02-20T23:13:13+0800
+ Last Modified Date: 2021-02-20T23:13:13+0800
+ Last Modified By  : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
 ---
 layout: default
 permalink: /
@@ -32,26 +37,25 @@ Soo][hansen].
 
 ### major projects
 
-**screenflow (2020 – present)** \
+**screenflow (2020)** \
 Data matrix reading utility for high-throughput cryotube testing and sorting. \
 Worked on the [computer vision][nb-1] and web development stack.
 
 [github.com/fishnsotong/screenflow](https://github.com/fishnsotong/screenflow)
 
-**protein-purification (2020 – present)** \
+**protein-purification (2020)** \
 A robot to automate IMAC protocols for purifying recombinant proteins.
 
 [github.com/fishnsotong/protein-purification](https://github.com/fishnsotong/protein-purification)
 
-### service projects
+## service projects
 
-**Project Glitch (2020 – present)** \
-Workshops, camps and hackathons to make robotics and making more
-accessible to students from all backgrounds in MacPherson and Singapore.
-
+**Foundry (2021 – present)**
+Teaching electronics and programming to students in Singapore.
 
 ## writing and photography
-I'm a [film photographer][photos] exploring portraiture and street photography. I like the look of film and taking pictures of my friends.
+I'm a [film photographer][photos] exploring portraiture and street photography.
+I like the look of film and taking pictures of my friends.
 
 I used to be interested in journalistic writing back when I was in school.
 Here's a small collection of my work. 
@@ -69,8 +73,8 @@ Here's a small collection of my work.
 - gmail using wwzyeo
 
 [cv]: /cv/
-[group]: http://www.ntu.edu.sg/home/hansen/webpage/public/Main.htm
-[hansen]: https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=HANSEN
+[group]: https://personal.ntu.edu.sg/hansen/webpage/public/main.htm
+[hansen]: https://dr.ntu.edu.sg/cris/rp/rp00555
 [photos]: https://vsco.co/fishnsotong/gallery
 [writing-1]: http://thevictorianpress.com/sutd-ev-design-challenge-2017/
 [writing-2]: https://all-in.bookcouncil.sg/2017/page/399.html
