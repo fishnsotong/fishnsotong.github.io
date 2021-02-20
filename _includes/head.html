@@ -1,24 +1,9 @@
-<!DOCTYPE html>
 <!--
  - File              : head.html
- - Author            : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
- - Date              : 2021-02-20T22:45:07+0800
- - Last Modified Date: 2021-02-21T02:09:54+0800
- - Last Modified By  : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
--->
-<!--
- - File              : head.html
-<<<<<<< HEAD
  - Author            : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
  - Date              : 2020-08-20T21:59:16+0800
- - Last Modified Date: 2020-08-20T21:59:16+0800
+ - Last Modified Date: 2021-02-21T02:25:33+0800
  - Last Modified By  : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
-=======
- - Author            : Wayne Yeo [fishnsotong] <wwzyeo@gmail.com>
- - Date              : 2020-08-20T22:02:29+0800
- - Last Modified Date: 2020-08-21T00:22:02+0800
- - Last Modified By  : Wayne Yeo [fishnsotong] <wwzyeo@gmail.com>
->>>>>>> f55241bf631441272443a278f43890a8168fbdbe
 -->
 <head>
     {% if site.google_tag_manager %}
@@ -30,7 +15,7 @@
     {% endif %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title != '' %} {{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
+    <title>{% unless page.title == 'main' %} {{ page.title | strip_html }} &#8211; {% endunless %}{{ site.title | strip_html }}</title>
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">

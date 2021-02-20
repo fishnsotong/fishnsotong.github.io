@@ -1,8 +1,3 @@
- File              : home.md
- Author            : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
- Date              : 2021-02-20T23:13:13+0800
- Last Modified Date: 2021-02-20T23:13:13+0800
- Last Modified By  : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
 ---
 layout: default
 permalink: /
@@ -51,7 +46,8 @@ A robot to automate IMAC protocols for purifying recombinant proteins.
 ## service projects
 
 **Foundry (2021 – present)**
-Teaching electronics and programming to students in Singapore.
+Making electronics and programming to more accessible to students from all
+backgrounds in Singapore.
 
 ## writing and photography
 I'm a [film photographer][photos] exploring portraiture and street photography.
