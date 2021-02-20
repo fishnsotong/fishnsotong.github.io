@@ -3,7 +3,7 @@
  - File              : head.html
  - Author            : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
  - Date              : 2021-02-20T22:45:07+0800
- - Last Modified Date: 2021-02-20T22:45:07+0800
+ - Last Modified Date: 2021-02-21T02:09:54+0800
  - Last Modified By  : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
 -->
 <!--
@@ -30,7 +30,7 @@
     {% endif %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% unless page.title == 'main' %} {{ page.title | strip_html }} &#8211; {% endunless %}{{ site.title | strip_html }}</title>
+    <title>{% if page.title != '' %} {{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
