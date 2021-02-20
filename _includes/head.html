@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<!--
+ - File              : head.html
+ - Author            : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
+ - Date              : 2020-08-20T21:59:16+0800
+ - Last Modified Date: 2020-08-20T21:59:16+0800
+ - Last Modified By  : Wayne Yeo [fishnsotong@gosigs] <wwzyeo@gmail.com>
+-->
 <head>
     {% if site.google_tag_manager %}
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -8,7 +16,7 @@
     {% endif %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
+    <title>{% if page.title != '' %} {{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
