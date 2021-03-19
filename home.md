@@ -12,7 +12,7 @@ energy conversion such as artificial photosynthesis.
 I completed my pre-university education at Victoria Junior College, where I was
 the vice-chairperson of the robotics-makers club.
 
-[[CV]][cv] (last updated September 2020)
+[[CV]][cv] (last updated February 2021)
 
 
 ## research
@@ -32,7 +32,7 @@ Soo][hansen].
 
 ### major projects
 
-**screenflow (2020)** \
+**screenflow (2020 – present)** \
 Data matrix reading utility for high-throughput cryotube testing and sorting. \
 Worked on the [computer vision][nb-1] and web development stack.
 
@@ -45,9 +45,9 @@ A robot to automate IMAC protocols for purifying recombinant proteins.
 
 ### service projects
 
-**Foundry (2021 – present)** \
-Making electronics and programming to more accessible to students from all
-backgrounds in Singapore.
+**Project Glitch (2020)** \
+Making robotics and electronics tinkering to more accessible to students from all
+backgrounds in MacPherson, Singapore.
 
 ## writing and photography
 I'm a [film photographer][photos] exploring portraiture and street photography.

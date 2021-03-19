@@ -11,14 +11,15 @@ tags: tools
 
 A collection of tools that I use.
 
-- Computer: MacBook Pro (2020, 13-inch)
-- Mobile: iPhone X, iPad Pro (2020, 12.9-inch)
+- MacBook Pro (2020, 13-inch)
+- iPad Pro (2020, 12.9-inch) with Smart Keyboard Folio
+- iPhone X
+- Bike: Riverside 500
 - Mouse: Logitech MX Master 3
 - Camera: Nikon F5, 50 mm f/1.4 AF-D
-- Scope: HP 54600A (DSO)
+- Scope: HP 54600A
 
 ## software
-*Note: I use a MacBook and an iPhone, and a sexy Linux machine for compute.*
 
 ### Computer software
 

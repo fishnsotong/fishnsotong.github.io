@@ -8,23 +8,26 @@ search:    exclude
 
 # Wayne Yeo Wei Zhong
 
-wwzyeo on gmail \
+wwzyeo@gmail.com \
 [https://fishnsotong.github.io][website]
 
 ## Education
 
-**Victoria Junior College, Singapore (2017 - 2018)**
+**Imperial College London, United Kingdom** (2021 – 2024)
+* MSci Chemistry
+
+**Victoria Junior College, Singapore** (2017 – 2018)
 * Singapore-Cambridge GCE A-Level Examinations
 * Subjects offered: Physics, Chemistry, Mathematics, Economics, General Paper\
 (AAA/CD)
 
-**Victoria School, Singapore (2013 - 2016)**
+**Victoria School, Singapore** (2013 – 2016)
 * GPA: 4.0/4.0
 
 ## Work Experience
 
-**Singapore Armed Forces**
-* Cyber Defence Group
+**Singapore Armed Forces** \
+Cyber Defence Group
 * Corporal – Cybersecurity Operator (2019 – 2021)
 
 **Nanyang Technological University** \
@@ -50,7 +53,7 @@ Institute for Materials Research and Engineering
 1. W. W. Z. Yeo, S. H. Lim, C. K. Liu and G. Yong. Building Nanostructured
    Porous Silica Materials Directed by Surfactants. *IRC Conference on Science,
    Engineering and Technology*, 2018. Talk at IRC-SET 2018.
-1. I. J. K. Feng, W. W. Z. Yeo and C. X. Gao. The use of Markov Chains for Search
+1. I. J. K. Feng, W. W. Z. Yeo and C. X. Gao. The Use of Markov Chains for Search
    Optimization in the World of Big Data. *Singapore Mathematical Society Essay
    Competition (Category C)*, 2017. **Second Prize.**
 {: reversed="reversed"}
@@ -71,7 +74,7 @@ Institute for Materials Research and Engineering
 ### Institutional
 - 2017: Victorian Press Awards, Best Feature Article
 - 2016: East Zone A\*STAR Science Fair, Bronze Award \
-  Presented at Maker Faire 2017
+  Presented at Maker Faire Singapore 2017
 
 
 ### Notable Participations
