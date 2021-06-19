@@ -12,7 +12,7 @@ energy conversion such as artificial photosynthesis.
 I completed my pre-university education at Victoria Junior College, where I was
 the vice-chairperson of the robotics-makers club.
 
-[[CV]][cv] (last updated February 2021)
+[[CV]][cv] (last updated June 2021)
 
 
 ## research
@@ -66,7 +66,7 @@ Here's a small collection of my work.
 - [(2017, February 28)][writing-4] Keeping Her Flag Unfurled. *The Victorian Press.*
 
 ## contact
-- gmail using wwzyeo
+- gmail: wwzyeo
 
 [cv]: /cv/
 [group]: https://personal.ntu.edu.sg/hansen/webpage/public/main.htm

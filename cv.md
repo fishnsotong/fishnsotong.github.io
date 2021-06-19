@@ -13,7 +13,7 @@ wwzyeo@gmail.com \
 
 ## Education
 
-**Imperial College London, United Kingdom** (2021 – 2024)
+**Imperial College London, United Kingdom** (2021 – 2025)
 * MSci Chemistry
 
 **Victoria Junior College, Singapore** (2017 – 2018)
@@ -26,6 +26,11 @@ wwzyeo@gmail.com \
 
 ## Work Experience
 
+**Agency for Science, Technology and Research** \
+Singapore Institute of Food and Biotechnology Innovation
+* Research Intern, Metabolic Engineering and Research Laboratory (2021)
+* Advisor: Wei Yifeng
+
 **Singapore Armed Forces** \
 Cyber Defence Group
 * Corporal – Cybersecurity Operator (2019 – 2021)
@@ -33,7 +38,7 @@ Cyber Defence Group
 **Nanyang Technological University** \
 Division of Chemical and Biological Chemistry \
 School of Mathematical and Physical Sciences
-* Research Intern, Innovated Photosynthesis Lab (2018 - 2019)
+* Student Intern, Innovated Photosynthesis Lab (2018 - 2019)
   * Synthesis and characterisation of main-group photosensitisers and transition
     metal catalysts for artificial photosynthetic systems
   * Advisor: Han Sen Soo
@@ -44,7 +49,7 @@ Institute for Materials Research and Engineering
 - H3 Attachment, Materials Processing and Characterisation Department (2017)
   - Building nanostructured silica porous materials directed by surfactants
   - Advisors: Connie Liu, Gen Yong
-- Research Intern, Polymeric Materials Department (2016)
+- Student Intern, Polymeric Materials Department (2016)
   - 3D Printing of soft polymers
   - Advisor: Sen Wai Kwok
 
@@ -84,7 +89,8 @@ Institute for Materials Research and Engineering
 
 ## Scholarships and Prizes
 
-* A\*STAR Science Award (Junior College), Agency for Science, Technology and Research (2017)
+* National Science Scholarship, Agency for Science, Technology and Research (2021)
+* A\*STAR Science Award (JC), Agency for Science, Technology and Research (2017)
 * Subject Prize for English – 1<sup>st</sup> in graduating cohort, Victoria School (2016)
 * Social Innovator Award, Victoria School (2016)
 * Regional Studies Programme Scholarship, Ministry of Education, Singapore (2013)
@@ -93,7 +99,7 @@ Institute for Materials Research and Engineering
 ## Service
 
 * Project Glitch – teaching, planning events and workshops. (2020)
-* SYPT Category B, Victoria School (mentor) – first time teams from Victoria School won Bronze, and Special Mention awards. (2017)
+* SYPT Category B, Victoria School (mentor) – first occasion teams from Victoria School won Bronze, and Special Mention awards. (2017)
 
 ## Extracurricular Activities
 
